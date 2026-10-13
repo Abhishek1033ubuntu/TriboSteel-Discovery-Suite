@@ -1,5 +1,5 @@
 """
-TriboSteel-Discovery-Suite: Master End-to-End Pipeline
+Module: VASP Job Directory Preparation
 Author: Abhishek Singh (https://orcid.org/0009-0004-6913-096X)
 Development Support: Google Gemini (AI Co-Pilot)
 Copyright (c) 2026 Abhishek Singh. All rights reserved.
