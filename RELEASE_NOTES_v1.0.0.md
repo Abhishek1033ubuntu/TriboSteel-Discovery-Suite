@@ -3,7 +3,7 @@
 **Release Tag:** `v1.0.0`  
 **Date:** October 14, 2026  
 **Author:** Abhishek Singh ([ORCID: 0009-0004-6913-096X](https://orcid.org/0009-0004-6913-096X))  
-**DOI:** [10.5281/zenodo.23313865](https://doi.org/10.5281/zenodo.xxxxxxxx)  
+**DOI:** [10.5281/zenodo.xxxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxxx)  
 **Development Support:** Google Gemini (AI Co-Pilot)
 
 ---
