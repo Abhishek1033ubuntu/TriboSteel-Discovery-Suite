@@ -157,3 +157,14 @@ Distributed under the **MIT License**. See `LICENSE` for details.
   url          = {https://github.com/Abhishek1033ubuntu/TriboSteel-Discovery-Suite}
 }
 ```
+## ⚡ Support
+
+| Platform | Link |
+| :--- | :--- |
+| **PayPal** | [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/Abhishek1033ubuntu) |
+| **GitHub Sponsors** | [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa.svg?logo=github)](https://github.com/sponsors/Abhishek1033ubuntu) |
+
+## Acknowledggments & AI Co-Pilot Support
+
+* **Lead Author & Principal Investigator:** Abhishek Singh ([ORCID: 0009-0004-6913-096X](https://orcid.org/0009-0004-6913-096X))
+* **AI Computational Support:** Developed with collaborative co-piloting from **Google Gemini**, utilized for multi-objective optimization script generation, ASE atomistic supercell construction, and thermo-mechanical grid modeling.
