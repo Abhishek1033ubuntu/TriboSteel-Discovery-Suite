@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or computational methodology, please cite it as below."
+title: "TriboSteel-Discovery-Suite: Quantum-Mechanical Discovery & FNC Engineering of Anti-Fretting Bearing Alloys"
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+    orcid: "https://orcid.org/0009-0004-6913-096X"
+date-released: 2026-10-13
+version: "1.0.0"
+doi: "10.5281/zenodo.xxxxxxxx"
+url: "https://github.com/Abhishek1033ubuntu/TriboSteel-Discovery-Suite"
+license: MIT
+repository-code: "https://github.com/Abhishek1033ubuntu/TriboSteel-Discovery-Suite"
+url: "https://github.com/Abhishek1033ubuntu/TriboSteel-Discovery-Suite"
+repository-code: "https://github.com/Abhishek1033ubuntu/TriboSteel-Discovery-Suite"
+license: MIT
+keywords:
+- "bearing-steels"
+- "fretting-corrosion"
+- "density-functional-theory"
+- "ferritic-nitrocarburizing"
+- "tribology"
+- " materials-discovery"
