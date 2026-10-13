@@ -7,7 +7,7 @@
 [![ORCID 0009-0004-6913-096X](https://img.shields.io/badge/ORCID-0009--0004--6913--096X-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6913-096X)
 [![Powered by Google Gemini](https://img.shields.io/badge/Powered%20by-Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![Open in Google Colab](https://img.shields.io/badge/Open%20in-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
-[![DOI 10.5281/zenodo.23349563](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23349563-blue?style=flat-square)](https://zenodo.org/)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23349563-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23349563) 
 [![License MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 [![Alloy Core Target](https://img.shields.io/badge/Alloy%20Target-Fe--0.50C--3.00Cr--0.15Mo-darkgreen?style=flat-square)](#)
