@@ -1,7 +1,9 @@
 """
-Module: VASP Output Parser & Voigt-Reuss-Hill Elastic Solver
+TriboSteel-Discovery-Suite: Master End-to-End Pipeline
 Author: Abhishek Singh (https://orcid.org/0009-0004-6913-096X)
-Copyright (c) 2026 Abhishek Singh
+Development Support: Google Gemini (AI Co-Pilot)
+Copyright (c) 2026 Abhishek Singh. All rights reserved.
+License: MIT
 """
 
 import os
