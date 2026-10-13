@@ -12,9 +12,9 @@ url: "https://github.com/Abhishek1033ubuntu/TriboSteel-Discovery-Suite"
 repository-code: "https://github.com/Abhishek1033ubuntu/TriboSteel-Discovery-Suite"
 license: MIT
 keywords:
-  bearing-steels
-  fretting-corrosion
-  density-functional-theory
-  ferritic-nitrocarburizing
-  tribology
-  materials-discovery
+- "bearing-steels"
+  - "fretting-corrosion"
+  - "density-functional-theory"
+  - "ferritic-nitrocarburizing"
+  - "tribology"
+  - " materials-discovery"
