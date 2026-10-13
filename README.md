@@ -35,6 +35,15 @@ Rather than relying on expensive Laser Surface Texturing (LST) or non-ferrous su
   Fe-C-Cr-Mo-Mn-Si-V Space       128-Atom BCC Supercells       CrN Trapping Model            -80°C to +300°C / EHL
   Cost Index ≤ 1.70x             Young's Modulus E = 221 GPa   185 µm Effective Depth        Subsurface Shear Limits
 ```
+---
+
+## Problem Context & Reference Case
+
+This computational discovery suite was developed to directly address and mitigate the fretting wear and spalling mechanisms documented in the following field case studies and industry failure benchmarks:
+
+* **Primary Challenge Case / Industry Report:**[Bearing Fatigue & Fretting Corrosion** — Micro-motion surface spalling and anti-fretting surface texturing](https://github.com/Abhishek1033ubuntu/TriboSteel-Discovery-Suite/docs/Case_Links.md)
+* **Standard Failure Reference:** ISO 15243 (Rolling bearings — Damage and failures) / DIN 50324 (Tribology wear testing).
+* **Target Operating Mandate:** Replacement of high-cost Laser Surface Texturing (LST) with low-cost Ferritic Nitrocarburizing (FNC) on medium-carbon low-alloy steel.
 
 ---
 
