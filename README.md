@@ -158,11 +158,11 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 
 ```bibtex
 @software{tribosteel_discovery_suite_2026,
-  author       = {Abhishek},
+  author       = {Abhishek Singh | 941491229013},
   title        = {TriboSteel-Discovery-Suite: Cost-Bounded Quantum-Mechanical Discovery and Thermochemical Engineering of Anti-Fretting Bearing Alloys},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.23313865},
+  doi          = {10.5281/zenodo.23349563},
   url          = {https://github.com/Abhishek1033ubuntu/TriboSteel-Discovery-Suite}
 }
 ```
